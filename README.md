@@ -6,27 +6,27 @@ Jisuan Wuli
 
 * [exercise_02:the decay of two kinds of particales] [02]
 
-* [exercise_03:population growth] [03]
+* [exercise_03:] [03]
 
-* [exercise_04:the cannon] [04]
+* [exercise_04:] [04]
 
-* [exercise_05:the spin of baseball] [05]
+* [exercise_05:] [05]
 
-* [exercise_06:non-linear oscilator] [06]
+* [exercise_06:] [06]
 
-* [exercise_07:strange attractor] [07]
+* [exercise_07:] [07]
 
-* [exercise_08:biliard ball on diverse table] [08]
+* [exercise_08:] [08]
 
-* [exercise_09:the percession of mercury] [09]
+* [exercise_09:] [09]
 
-* [exercise_10:the kirkwood gap] [10]
+* [exercise_10:] [10]
 
-* [exercise_11:the jacobi method v.sv the SOR algorithm] [11]
+* [exercise_11:] [11]
 
-* [exercise_12:the realistic string problem] [12]
+* [exercise_12:] [12]
 
-* [final:用轨道能量分析kirkwood gap的缝宽] [13]
+* [final:] [13]
 
 [01]:
 [02]:
