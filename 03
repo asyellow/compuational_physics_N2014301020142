@@ -1,0 +1,16 @@
+import os
+import time
+count = 0
+a=1
+while (count < 20): 
+   i=os.system('cls')   
+   print (' '*a,'#     # ')
+   print (' '*a,'#     # ')
+   print (' '*a,'#     # ')
+   print (' '*a,'####### ')
+   print (' '*a,'#     # ')     
+   print (' '*a,'#     # ') 
+   print (' '*a,'#     # ')        
+   count = count + 1
+   a=a+1
+   time.sleep(0.3)
