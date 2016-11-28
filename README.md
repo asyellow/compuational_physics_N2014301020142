@@ -37,7 +37,7 @@ Jisuan Wuli
 [07]:
 [08]:
 [09]:
-[10]:
+[10]:https://github.com/asyellow/compuational_physics_N2014301020142/blob/master/10.md
 [11]:
 [12]:
 [13]:
