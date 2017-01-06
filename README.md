@@ -40,4 +40,4 @@ Jisuan Wuli
 [11]:
 [12]:
 [13]:
-[f]:https://www.zybuluo.com/mdeditor#498648
+[final]:https://www.zybuluo.com/mdeditor#498648
