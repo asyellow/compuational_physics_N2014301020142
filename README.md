@@ -25,8 +25,7 @@ Jisuan Wuli
 * [exercise_11:] [11]
 
 * [exercise_12:] [12]
-* [13]
-* [final:] [final]
+* [final:] [f]
 
 [01]:
 [02]:
@@ -41,4 +40,4 @@ Jisuan Wuli
 [11]:
 [12]:
 [13]:
-[final]{https://pan.baidu.com/s/1mhVIl3i}
+[f]:https://pan.baidu.com/s/1mhVIl3i
