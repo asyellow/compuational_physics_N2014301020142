@@ -25,7 +25,7 @@ Jisuan Wuli
 * [exercise_11:] [11]
 
 * [exercise_12:] [12]
-* [final:] [f]
+* [f:] [f]
 
 [01]:
 [02]:
